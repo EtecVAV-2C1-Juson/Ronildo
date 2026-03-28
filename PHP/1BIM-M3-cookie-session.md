@@ -1,13 +1,13 @@
-Alunos: Alison Gustavo Valli, Julia Furtado Polycarpo  
-Turma: 2ºC1  
+### Alunos: Alison Gustavo Valli, Julia Furtado Polycarpo  
+### Turma: 2ºC1  
 
-# Exercício 1 — Pergunta conceitual
-## Explique a diferença entre cookies e sessions no PHP.
+# Exercício 1 - Pergunta conceitual.
+## Explique a diferença entre cookies e sesions no PHP.  
 
 <hr>
 
-# Exercício 2 — Pergunta de aplicação
-## Imagine que você está desenvolvendo um sistema de loja virtual. Explique como cookies e sessions poderiam ser utilizados para:
+# Exercício 2 - Pergunta de aplicação.
+## Imagine que você está desenvolvendo um sistema de loja virtual. Explique como cookies e sessions poderiam ser utilizados para manter o usuário logado, armazenar itens temporários no carrinho, registrar preferências do usuário. Justifique suas escolhas.
 
 <hr>
 
