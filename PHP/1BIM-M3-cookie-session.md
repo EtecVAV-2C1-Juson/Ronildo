@@ -29,4 +29,10 @@ Por isso, as session são geralmente usadas em sistemas de login, porque armazen
 
 <hr>
 
+# Referências
 
+Como setcookie funciona: https://www.php.net/manual/en/function.setcookie.php  
+Processos do Cookie no navegador: https://m.php.cn/en/faq/1796718637.html  
+Sessions/Armazenamento no navegador: https://www.php.net/manual/en/book.session.php  
+Cookies/Armazenamento no navegador: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies  
+Riscos de segurança por cookies e sessions: https://owasp.org/www-community/Session_Management
