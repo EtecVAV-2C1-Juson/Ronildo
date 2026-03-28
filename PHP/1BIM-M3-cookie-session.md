@@ -4,6 +4,7 @@
 # Exercício 1 - Pergunta conceitual.
 ## Explique a diferença entre cookies e sesions no PHP.  
 
+Cookies e sessions no PHP são mecanismos usados para armazenar dados entre diferentes acessos feitos pelo usuário em um site. A principal diferença entre eles está no local onde essas informações são guardadas. Os cookies são armazenados diretamente no navegador do usuário, podendo ter um tempo de expiração definido e permanecer mesmo após o fechamendo do site. Já as sessions são armazenadas no servidor, enquanto o navegador guarda apenas um identificador único (ID da sessão), que permite acessar esses dados posteriormente. Em relação à segurança, as sessions são consideradas mais seguras, pois as informações não ficam expostas ao usuário, ao contrário dos cookies, que podem ser acessados, modificados ou até apagados.
 <hr>
 
 # Exercício 2 - Pergunta de aplicação.
@@ -31,6 +32,8 @@ Por isso, as session são geralmente usadas em sistemas de login, porque armazen
 
 # Referências
 
+Funcionamento dos cookies: https://www.php.net/manual/pt_BR/features.cookies.php
+Funcionamento das sessions: https://www.php.net/manual/pt_BR/book.session.php
 Como setcookie funciona: https://www.php.net/manual/en/function.setcookie.php  
 Processos do Cookie no navegador: https://m.php.cn/en/faq/1796718637.html  
 Sessions/Armazenamento no navegador: https://www.php.net/manual/en/book.session.php  
