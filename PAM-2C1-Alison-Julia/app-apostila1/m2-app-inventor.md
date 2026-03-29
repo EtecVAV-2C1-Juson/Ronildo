@@ -1,6 +1,6 @@
-# Instituição
-## Centro Paula Souza  
-### Etec Vasco Antonio Venchiarutti – Jundiaí - SP  
+## Instituição
+Centro Paula Souza  
+Etec Vasco Antonio Venchiarutti – Jundiaí - SP  
 ## Curso
 Desenvolvimento de Sistemas
 
