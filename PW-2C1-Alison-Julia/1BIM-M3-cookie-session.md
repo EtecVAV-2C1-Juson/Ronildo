@@ -10,6 +10,9 @@ Cookies e sessions no PHP são mecanismos usados para armazenar dados entre dife
 # Exercício 2 - Pergunta de aplicação.
 ## Imagine que você está desenvolvendo um sistema de loja virtual. Explique como cookies e sessions poderiam ser utilizados para manter o usuário logado, armazenar itens temporários no carrinho, registrar preferências do usuário. Justifique suas escolhas.
 
+Em um sistema de loja virtual, cookies e sessions podem ser usados de forma complementar para melhorar a segurança e a experiência do usuário. Para manter o usuário logado, o mais indicado é utilizar sessions, pois os dados ficam armazenados no servidor, o que diminui os riscos de acesso indevido. Para o carrinho de compras, as sessions também são mais indicadas, já que os itens podem mudar durante a navegação e precisam ser atualizados com frequência. Já os cookies são mais indicados para guardar preferências do usuário, como idioma, tema do site ou algumas configurações. Além disso, os cookies permitem que essas preferências continuem salvas mesmo depois que o usuário sai do site, o que melhora a experiência da navegação. Dessa forma, o uso de cookies e sessions juntos permitem um melhor funcionamento do site, mantendo a segurança dos dados importantes enquanto oferece praticidade para o usuário.
+
+
 <hr>
 
 # Exercício 3 — Pergunta de investigação
