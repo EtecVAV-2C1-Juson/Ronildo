@@ -1,5 +1,6 @@
-## Instituição
-ETEC Vasco Antônio Venchiarutti
+# Instituição
+## Centro Paula Souza  
+### Etec Vasco Antonio Venchiarutti – Jundiaí - SP  
 ## Curso
 Desenvolvimento de Sistemas
 
@@ -7,7 +8,7 @@ Desenvolvimento de Sistemas
 2ºC1
 ## Autores
 Alison Gustavo Valli  
-Julia Furtado Polycarpo
+Julia Furtado Polycarpo  
 
 ---
 
@@ -35,6 +36,7 @@ O objetivo do aplicativo é que o usuário possa desenhar na tela do celular; qu
 ![Design do Projeto Pintar](imagens/p2-design.png)  
 ### Print das telas dos Blocos
 ![Blocos do Projeto Pintar](imagens/p2-blocos.png)
+
 ---
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
@@ -52,7 +54,7 @@ O objetivo do aplicativo é simular o funcionamento de um liquidificador; quando
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
 ### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+O objetivo do aplicativo é utilizar a câmera do celular; quando o botão “Tirar foto” é apertado, a câmera do celular é aberta para que o usuário possa tirar uma foto. Depois que a foto é tirada, a imagem aparece na tela do aplicativo junto com a mensagem “Foto tirada com sucesso!!”. O aplicativo também possui um botão para fechar a tela. Em relação ao exemplo da apostila, foi adicionada a mensagem informando que a foto foi tirada com sucesso após capturar a imagem.
 
 ### Print das telas do Design
 ![Design do Projeto Usando a Câmera](imagens/p4-design.png)  
@@ -64,7 +66,7 @@ Descrever objetivo, funcionamento e modificações realizadas.
 # Projeto 5 – Quinto Aplicativo (pg. 69)
 
 ### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+O objetivo do aplicativo é permitir a navegação entre diferentes telas; quando o usuário clica nos botões disponíveis, ele é direcionado da tela inicial para outras telas e também pode retornar à principal. Sempre que a tela 1 ou a tela 2 é aberta, a cor de fundo muda automaticamente, deixando a interface mais dinâmica. Em relação ao exemplo da apostila, foi adicionada a mudança de cor ao acessar essas telas.
 
 ### Print das telas do Design
 ![Design 1 do Projeto Várias Telas](imagens/p5-design1.png)
@@ -80,7 +82,7 @@ Descrever objetivo, funcionamento e modificações realizadas.
 # Projeto 6 – Sexto Aplicativo (pg. 82)
 
 ### Descrição
-Descrever objetivo, funcionamento e modificações realizadas.
+O objetivo do aplicativo é mostrar uma mensagem personalizada; quando o usuário digita seu nome na caixa de texto e aperta o botão, aparece na tela a mensagem “Olá (nome)!!” com o nome que foi digitado. Caso o botão seja apertado sem que nenhum nome tenha sido escrito, o aplicativo exibe uma mensagem pedindo para o usuário digitar o nome. Em relação ao exemplo da apostila, foi adicionada a verificação da caixa de texto para não permitir que a saudação apareça vazia.
 
 ### Print das telas do Design
 ![Design do Projeto Teclado](imagens/p6-design.png)  
