@@ -13,7 +13,7 @@ Cookies e sessions no PHP são mecanismos usados para armazenar dados entre dife
 Em um sistema de loja virtual, cookies e sessions podem ser usados de forma complementar para melhorar a segurança e a experiência do usuário. Para manter o usuário logado, o mais indicado é utilizar sessions, pois os dados ficam armazenados no servidor, o que diminui os riscos de acesso indevido. Para o carrinho de compras, as sessions também são mais indicadas, já que os itens podem mudar durante a navegação e precisam ser atualizados com frequência. Já os cookies são mais indicados para guardar preferências do usuário, como idioma, tema do site ou algumas configurações. Além disso, os cookies permitem que essas preferências continuem salvas mesmo depois que o usuário sai do site, o que melhora a experiência da navegação. Dessa forma, o uso de cookies e sessions juntos permitem um melhor funcionamento do site, mantendo a segurança dos dados importantes enquanto oferece praticidade para o usuário.
 
 
-<hr>
+---
 
 # Exercício 3 — Pergunta de investigação
 ## O que aconteceu em cada etapa? Por que o cookie não aparece imediatamente na primeira execução?  
@@ -22,7 +22,7 @@ Quando a página do código fornecido é acessada pela primeira vez, a mensagem 
 Portanto, na primeiro acesso, o cookie ainda não está disponível para ser lido, o que resulta na mensagem indicando que ele ainda não existe. Quando a página é atualizada, o navegador já terá salvo o cookie e o envia de volta para o servidor, permitindo que o PHP acesse o valor por meio do `$_COOKIE` e mostre ele na tela.  
 Assim, cada etapa corresponde ao envio, armazenamento e retorno do cookie. O motivo de ele não aparecer de imediato é justamente porque só pode ser lido no próximo carregamento da página.
 
-<hr>
+---
 
 # Exercício 4 — Pergunta de reflexão  
 ## Por que sessions são geralmente preferidas para autenticação de usuários em sistemas web?
@@ -31,12 +31,12 @@ As sessions são preferidas na maioria das vezes para autenticação pois são m
 Quanto à segurança, as sessions são mais confiáveis pois as informações importantes não ficam no computador do usuário. Na manipulação de dados, também é uma vantagem, já que os dados não podem ser alterados diretamente pelo navegador. E utilizando apenas cookies, existe o risco de modificação das informações, o que causa problemas de segurança e acesso indevido.  
 Por isso, as session são geralmente usadas em sistemas de login, porque armazenam os dados no servidor e deixam no navegador apenas o necessário para identificar o usuário, tornando o processo mais seguro.
 
-<hr>
+---
 
 # Referências
 
-Funcionamento dos cookies: https://www.php.net/manual/pt_BR/features.cookies.php
-Funcionamento das sessions: https://www.php.net/manual/pt_BR/book.session.php
+Funcionamento dos cookies: https://www.php.net/manual/pt_BR/features.cookies.php  
+Funcionamento das sessions: https://www.php.net/manual/pt_BR/book.session.php  
 Como setcookie funciona: https://www.php.net/manual/en/function.setcookie.php  
 Processos do Cookie no navegador: https://m.php.cn/en/faq/1796718637.html  
 Sessions/Armazenamento no navegador: https://www.php.net/manual/en/book.session.php  
