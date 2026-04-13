@@ -27,12 +27,67 @@ Como na apostila, foram utilizados componentes visuais para o design(botões, im
 
 ## 🖥 Print das telas do Design
 
-Inserir imagens da **tela de design do aplicativo**.
+
+<p align="center">
+  <b>Menu</b><br>
+  <img src="imagens/d-menu.png" width="400">
+</p>
+
+<p align="center">
+  <b>Níveis</b><br>
+  <img src="imagens/d-n1.png" width="250">
+  <img src="imagens/d-n2.png" width="250">
+  <img src="imagens/d-n3.png" width="250">  
+
+  <img src="imagens/d-n4.png" width="250">
+  <img src="imagens/d-n5.png" width="250">
+  <img src="imagens/d-n6.png" width="250">  
+
+  <img src="imagens/d-n7.png" width="250">
+  <img src="imagens/d-n8.png" width="250">
+  <img src="imagens/d-n9.png" width="250">
+</p>
+
+<p align="center">
+  <b>Notificações</b><br>
+  <img src="imagens/d-acertou.png" width="300">
+  <img src="imagens/d-errou.png" width="300">
+</p>
 
 ---
 
 ## 🧩 Print das telas dos Blocos
 
-Inserir imagens da **programação em blocos** do aplicativo.
+
+<p align="center">
+  <b>Screen1 (Menu)</b><br>
+  <img src="imagens/s1-blocos.png" width="500">
+</p>
+
+<p align="center">
+  <b>Botões</b><br>
+  <img src="imagens/n-btn1.png" width="300">
+  <img src="imagens/n-btn2.png" width="300">
+  <img src="imagens/n-btn3.png" width="300">
+</p>
+
+<p align="center">
+  <b>Início, Variáveis e Final</b><br>
+  <img src="imagens/n-inicio.png" width="300">
+  <img src="imagens/n-var.png" width="300">
+  <img src="imagens/n-fim.png" width="300">
+</p>
+
+<p align="center">
+  <b>Perguntas</b><br>
+  <img src="imagens/n-perguntas.png" width="500">
+</p>
+
+<p align="center">
+  <b>Opções</b><br>
+  <img src="imagens/n-opcoes-p1.png" width="300">
+  <img src="imagens/n-opcoes-p2.png" width="300">
+  <img src="imagens/n-opcoes-p3.png" width="300">
+</p>
 
 ---
