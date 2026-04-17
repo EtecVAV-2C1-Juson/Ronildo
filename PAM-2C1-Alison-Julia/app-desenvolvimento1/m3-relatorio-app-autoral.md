@@ -13,7 +13,7 @@ Julia Furtado Polycarpo
 # 📱 Projeto
 
 ## Título
-(nome do aplicativo criado pelo grupo)
+Conscientização das culturas dos países em risco
 
 ---
 
